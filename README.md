@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning:
   - `Django REST Framework` for building scalable APIs
-  - `Kotlin` for modern Android development
+  - `React Native` for modern Android development
   - `Rust` for safe and performant systems programming
 - 🧠 Exploring:
   - Real-time systems (WebSockets, Redis)
@@ -26,14 +26,13 @@ Open to teaming up on:
 ## 📫 Reach Out
 
 - 📷 Instagram: [@sanjay_gaire404](https://www.instagram.com/sanjay_gaire404/?next=%2F)
-- 💼 LinkedIn & Twitter: coming soon!
 
 ## 🧰 Tech Stack
 
 ```yaml
-Languages: [Python, Kotlin, C, C++, Rust, JavaScript]
+Languages: [Python, C, C++, Rust, JavaScript]
 Frameworks: [Django, Django REST Framework]
-Mobile: [Android (Kotlin)]
+Mobile: [Android (React Native)]
 Databases: [PostgreSQL, SQLite, Firebase]
 Tools: [Git, Docker, Linux, Postman, Pygame]
 Fun: [Godot]
