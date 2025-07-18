@@ -1,38 +1,44 @@
-# 👋 Hi, I’m Sanjay Gaire
+<p align="center">
+  <img src="mcomp.gif" width="5%">
+  <span style="font-size: 40px; font-weight: bold; margin: 0 10px;">Welcome to Sanjay Gaire's GitHub</span>
+  <img src="mcomp.gif" width="5%">
+</p>
 
-🎯 I'm a curious developer passionate about **Systems Design**, **Backend Development**, **Android App Development**, and **AI systems**. I also dabble in **game development** for fun—and I'm currently gearing up for **GMTK Game Jam 2025**!
 
-## 🚀 About Me
+# Hey! I'm Sanjay.
+## I ***TRY*** to build different applications through the use of programming.
 
-- 🌱 Currently learning:
-  - `Django REST Framework` for building scalable APIs
-  - `React Native` for modern Android development
-  - `Rust` for safe and performant systems programming
-- 🧠 Exploring:
-  - Real-time systems (WebSockets, Redis)
-  - Modular backend architectures
-  - AI-driven tools and creative automation
-- 🎮 Game Dev:
-  - Practicing with **Pygame** and **Godot**
-  - Preparing for **GMTK Game Jam 2025**
+<p align="center">
+  <img src="hackerman.gif" width="100%">
+</p>
 
-## 🤝 Let’s Collaborate
+        ■ Web and Mobile  ■ AI/ML ■ Automata ■ AI Experiments ■ Writing and Creative works
 
-Open to teaming up on:
-- 🛠 Open source projects
-- 🕹 Game jams and creative coding
-- 🚀 Emerging tech prototypes
 
-## 📫 Reach Out
 
-- 📷 Instagram: [@sanjay_gaire404](https://www.instagram.com/sanjay_gaire404/?next=%2F)
+▮ I work on things I enjoy and love breaking complex stuff into simple parts. ▮ 
 
-## 🧰 Tech Stack
 
-```yaml
-Languages: [Python, C, C++, Rust, JavaScript]
-Frameworks: [Django, Django REST Framework]
-Mobile: [Android (React Native)]
-Databases: [PostgreSQL, SQLite, Firebase]
-Tools: [Git, Docker, Linux, Postman, Pygame]
-Fun: [Godot]
+## 🛠️ Skills
+
+- 💻 Languages: Python, C, C++, HTML, CSS, JavaScript (basic)
+- 🌐 Frameworks: Django, Django REST Framework, React (basic)
+- 🖼️ Tools: Git, VS Code, Postman, Pygame, Docker
+
+
+---
+
+## 📚 Currently Learning
+
+- 🔍 Machine Learning with Scikit-learn
+- 🧱 Full-Stack with Django + React
+- ⚙️ Celery, Redis, Task Queues
+- 🖥️ Basics of Computer Architecture
+---
+
+### 📫 Contact
+- **Email**: gairesanjay59@gmail.com  
+
+<p align="center">
+  <img src="comp.gif" width="50%" alt="Welcome Animation" />
+</p>
