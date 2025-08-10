@@ -8,9 +8,6 @@
 # Hey! I'm Sanjay.
 ## I ***TRY*** to build different applications through the use of programming.
 
-<p align="center">
-  <img src="hackerman.gif" width="100%">
-</p>
 
         ■ Web and Mobile  ■ AI/ML ■ Automata ■ AI Experiments ■ Writing and Creative works
 
