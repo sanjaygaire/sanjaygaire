@@ -19,8 +19,8 @@
 ## 🛠️ Skills
 
 - 💻 Languages: Python, C, C++, HTML, CSS, JavaScript (basic)
-- 🌐 Frameworks: Django, Django REST Framework, React (basic)
-- 🖼️ Tools: Git, VS Code, Postman, Pygame, Docker
+- 🌐 Frameworks: Django, Django REST Framework,
+- 🖼️ Tools: Git, VS Code, Postman, Pygame
 
 
 ---
