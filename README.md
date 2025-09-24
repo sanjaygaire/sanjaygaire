@@ -9,17 +9,17 @@
 ## I ***TRY*** to build different applications through the use of programming.
 
 
-        ■ Web and Mobile  ■ AI/ML ■ Automata ■ AI Experiments ■ Writing and Creative works
+        ■ Web    ■ Mobile  ■ AI/ML   ■ Writing and Creative works
 
 
 
-▮ I work on things I enjoy and love breaking complex stuff into simple parts. ▮ 
+▮ I work on things I enjoy breaking complex stuff into simple parts. ▮ 
 
 
 ## 🛠️ Skills
 
-- 💻 Languages: Python, C, C++, HTML, CSS, JavaScript (basic)
-- 🌐 Frameworks: Django, Django REST Framework,
+- 💻 Languages: Python, C, C++, HTML, CSS, JavaScript
+- 🌐 Frameworks: Django, Django REST Framework, React , ReactNative(Expo)
 - 🖼️ Tools: Git, VS Code, Postman, Pygame
 
 
@@ -27,10 +27,9 @@
 
 ## 📚 Currently Learning
 
-- 🔍 Machine Learning with Scikit-learn
-- 🧱 Full-Stack with Django + React
-- ⚙️ Celery, Redis, Task Queues
-- 🖥️ Basics of Computer Architecture
+- Django
+- ReactNative
+- AI/ML
 ---
 
 ### 📫 Contact
